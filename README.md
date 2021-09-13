@@ -16,7 +16,7 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 # 2. Marco Teórico
 
-
+![](https://github.com/mjvilla1/ImagenesLab9/blob/main/marco%20teorico.1.PNG)
 
 # 3. Explicación  del procedimiento
 

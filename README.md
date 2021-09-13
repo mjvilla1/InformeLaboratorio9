@@ -19,6 +19,8 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 ![](https://github.com/mjvilla1/ImagenesLab9/blob/main/marco%20teorico.1.PNG)
 
+![](https://github.com/mjvilla1/ImagenesLab9/blob/main/Fasores.PNG)
+
 # 3. Explicación  del procedimiento
 
 Cuando trabajamos con fasores podemos representarles en forma rectangular y polar y trabajar con ellos con operaciones.

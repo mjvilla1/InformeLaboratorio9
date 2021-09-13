@@ -9,7 +9,10 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
      
     
     Objetivos Específicos
-     
+    - Conocer la relación entre reactancias inductivas y capacitivas de manera fasorial.
+    - Estudiar el comportamiento de los circuitos eléctricos usando graficas vectoriales (fasores).
+    -Comprobar las leyes de Kirchhoff. 
+
 
 # 2. Marco Teórico
 
@@ -45,7 +48,13 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 # 6. Conclusiones
 
-
+- El uso de los fasores es una herramienta matemática de gran ayuda, pues simplifica el análisis de los circuitos, haciendo 
+más fácil los cálculos, ya que si se toma la señal en el dominio del tiempo se tendría que trabajar con ecuaciones diferenciales, 
+lo cual haría más largo el procedimiento.
+- La frecuencia juega un papel muy importante a la hora de realizar análisis de circuitos con señales AC, más aún si se utilizan
+ elementos capacitivos e inductivos los cuales son sensibles a cambios de la frecuencia de la señal.
+ - Se logró comprobar, que al aplicar una señal sinusoidal con elementos inductivos y capacitivos, se presentan desfases
+ entre las señales de tensión y la corriente
 
 
 # 7. Bibliografía 

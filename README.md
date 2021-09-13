@@ -44,7 +44,7 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 # 5. Video
 
-
+https://youtu.be/nZGsXbK7MsA
 
 # 6. Conclusiones
 

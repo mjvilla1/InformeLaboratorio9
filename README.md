@@ -6,7 +6,8 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
      Objetivo General
      
-     
+     Analizar e Identificar el funcionamiento y utilidad de los fasores en la electricidad para comprobar el uso correcto debido que tenemos varias formas de 
+     utilizar mediante la realización de los ejercicios prouestos en la practica para compreder de mejor manera la utilización de fasores.
     
     Objetivos Específicos
     - Conocer la relación entre reactancias inductivas y capacitivas de manera fasorial.
